@@ -7,24 +7,24 @@
 ```pipeline
 .
 ├── database
-│   ├── row
-│   └── trusted
+│   ├── row
+│   └── trusted
 ├── lstm
 ├── notebook
 ├── output
-│   ├── experiment
-│   │   ├── 1_year
-│   │   ├── 3_years
-│   │   ├── 5_years
-│   │   └── better_results
-│   └── statistics
+│   ├── experiment
+│   │   ├── 1_year
+│   │   ├── 3_years
+│   │   ├── 5_years
+│   │   └── better_results
+│   └── statistics
 ├── pictures
 ├── recicle
-│   ├── database
-│   └── output
-│       ├── otimization
-│       ├── plots_lookback_32_batch
-│       └── plots_lookback_64_batch
+│   ├── database
+│   └── output
+│       ├── otimization
+│       ├── plots_lookback_32_batch
+│       └── plots_lookback_64_batch
 ├── scripts
 └── utils
 
