@@ -1,10 +1,10 @@
 # Folders:
 
-*/recicle
+*recicle/
 *.RData
 *.Rproj
 *.Rhistory
-*/output
+*output/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
