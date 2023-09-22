@@ -1,7 +1,5 @@
 # LSTM Bit
 
-## RNN to applied cryptocurrency
-
 ## Structure of project: 
 
 ```pipeline
